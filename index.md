@@ -6,8 +6,9 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>X-Quang Thịnh Phát</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="X-Quang Thịnh Phát Đà Lạt" name="description">
+  <meta content="Xquang,X-quang,Thinh Phat,Thịnh Phát,Đà Lạt,Da Lat" name="keywords">
+  <meta content="index,follow" name="robots">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
